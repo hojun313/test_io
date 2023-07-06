@@ -1,6 +1,6 @@
 ---
 title:  "Grand Theft Auto 5"
-tags: [game, review, openworld, AAA, Rockstar Games]
+tags: [Game, Review, Openworld, AAA, Rockstar Games]
 ---
 
 ## 개요
