@@ -1,5 +1,6 @@
 ---
 title:  "Grand Theft Auto 5"
+categories: Game
 tags: [Game, Review, Openworld, AAA, Rockstar Games]
 ---
 
