@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "더블드래곤"
+title                    : "컴공 이공"
 title_separator          : "|"
 subtitle                 : "positive pessimist"
 name                     : "DoubleDragonD"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "DoubleDragonD"
-  avatar           : #"/assets/images/Rick.png"
+  avatar           : "/assets/images/Rick.png"
   bio              : "I might be an **amazing** person."
   location         : "Location: lost"
   email            : "hojun313@naver.com"
