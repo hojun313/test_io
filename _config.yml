@@ -108,7 +108,7 @@ author:
   avatar           : #"/assets/images/Rick.png"
   bio              : "I might be an **amazing** person."
   location         : "Location: lost"
-  email            : "hojun313@naver.com
+  email            : "hojun313@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
