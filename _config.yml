@@ -110,6 +110,9 @@ author:
   location         : "Location: lost"
   email            : "hojun313@naver.com"
   links:
+    - label: "Youtube-Under construction"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@mindstorming6037/featured"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:hojun313@naver.com"
