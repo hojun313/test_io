@@ -5,7 +5,7 @@ tags: [Game, Review, Openworld, AAA, Rockstar Games]
 toc: true
 ---
 
->> 총점: ⭐⭐⭐⭐, 플레이 시간: 41시간 20분 (엔딩), 장르: 오픈월드 TPS
+> 총점: 💎💎💎💎💎💎, 플레이 시간: 79시간 59분 (3회차 엔딩+100%), 장르: 오픈월드 TPS
 
 ## 개요
 
