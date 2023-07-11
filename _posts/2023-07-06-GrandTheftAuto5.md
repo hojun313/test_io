@@ -5,6 +5,8 @@ tags: [Game, Review, Openworld, AAA, Rockstar Games]
 toc: true
 ---
 
+###총점: ⭐⭐⭐⭐, 플레이 시간: 41시간 20분, 장르: 오픈월드 TPS###
+
 ## 개요
 
 Grand Theft Auto 5는 2013년에 출시된 Rockstar Games의 대표작 Grand Theft Auto 시리즈의 14번째 작품이다.
