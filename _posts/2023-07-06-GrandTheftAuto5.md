@@ -7,8 +7,6 @@ toc: true
 
 > 총점: 💎💎💎💎💎💎, 플레이 시간: 89시간 59분 (3회차 엔딩+100%), 장르: 오픈월드 TPS
 
-(/assets/images/GTA5.jpg)
-!(/assets/images/GTA5.jpg)
 ![GTA5](/assets/images/GTA5.jpg)
 
 ## 개요
