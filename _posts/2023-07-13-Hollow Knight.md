@@ -3,6 +3,7 @@ title: "Hollow Knight: 공허의 심장 에디션"
 categories: Game
 tags: [Game, Review, Metroidvania, Platformer, Indie, GamePass]
 toc: true
+toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
 ---
