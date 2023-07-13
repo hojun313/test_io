@@ -1,4 +1,9 @@
-# Hollow Knight: 공허의 심장 에디션
+---
+title: "Hollow Knight: 공허의 심장 에디션"
+categories: Game
+tags: [Game, Review, Metroidvania, Platformer, Indie, GamePass]
+toc: true
+---
 
 총점: 💎💎💎💎💎💎, 플레이 시간: 44시간 37분 (98%), 장르: 매트로바니아 플랫포머
 
