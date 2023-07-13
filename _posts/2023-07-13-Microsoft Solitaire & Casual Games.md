@@ -1,4 +1,9 @@
-# Microsoft Solitaire & Casual Games
+---
+title: "Microsoft Solitaire & Casual Games"
+categories: Game
+tags: [Game, Review, BoardGame, Casual, Microsoft]
+toc: true
+---
 
 총점: ⭐⭐⭐⭐, 플레이 시간: 몰라 암튼 엄청 많이, 장르: 솔로 보드게임
 
@@ -6,9 +11,7 @@
 
 **Microsoft Solitaire & Casual Games는 이전 Microsoft Solitaire Collection, 이전의 Klondike, Spider, Freecell이 윈도우 11과 함께 변신한 게임이다. 정확히는 카드를 이용한 다섯 솔리테어 게임들과 마작, 직소퍼즐, 지뢰찾기 등 다양한 1인용 게임을 통틀어 제공하는 클라이언트이다. 최신형 윈도우에서 지뢰찾기가 없어졌다고 생각하여 아쉬워한 사람들이 있다면 Microsoft Solitaire & Casual Games에서 실행할 수 있으니 참고하자. 여담으로 지뢰찾기만큼 큰 임팩트를 준 3D 핀볼은 포함되지 않는다.**
 
-- 참고
-    
-    해당 리뷰는 ****Microsoft Solitaire & Casual Games중 솔리테어 게임들을 리뷰한다.****
+>참고: 해당 리뷰는 ****Microsoft Solitaire & Casual Games중 솔리테어 게임들을 리뷰한다.****
     
 
 ### 장르
