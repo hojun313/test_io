@@ -4,7 +4,7 @@ categories: Game
 tags: [Game, Review, Metroidvania, Platformer, Indie, GamePass]
 toc: true
 toc_icon: "bars"
-toc_sticky
+toc_sticky: true
 ---
 
 총점: 💎💎💎💎💎💎, 플레이 시간: 44시간 37분 (98%), 장르: 매트로바니아 플랫포머
