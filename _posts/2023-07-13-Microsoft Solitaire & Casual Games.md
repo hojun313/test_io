@@ -9,9 +9,9 @@ toc: true
 
 ## 개요
 
-**Microsoft Solitaire & Casual Games는 이전 Microsoft Solitaire Collection, 이전의 Klondike, Spider, Freecell이 윈도우 11과 함께 변신한 게임이다. 정확히는 카드를 이용한 다섯 솔리테어 게임들과 마작, 직소퍼즐, 지뢰찾기 등 다양한 1인용 게임을 통틀어 제공하는 클라이언트이다. 최신형 윈도우에서 지뢰찾기가 없어졌다고 생각하여 아쉬워한 사람들이 있다면 Microsoft Solitaire & Casual Games에서 실행할 수 있으니 참고하자. 여담으로 지뢰찾기만큼 큰 임팩트를 준 3D 핀볼은 포함되지 않는다.**
+Microsoft Solitaire & Casual Games는 이전 Microsoft Solitaire Collection, 이전의 Klondike, Spider, Freecell이 윈도우 11과 함께 변신한 게임이다. 정확히는 카드를 이용한 다섯 솔리테어 게임들과 마작, 직소퍼즐, 지뢰찾기 등 다양한 1인용 게임을 통틀어 제공하는 클라이언트이다. 최신형 윈도우에서 지뢰찾기가 없어졌다고 생각하여 아쉬워한 사람들이 있다면 Microsoft Solitaire & Casual Games에서 실행할 수 있으니 참고하자. 여담으로 지뢰찾기만큼 큰 임팩트를 준 3D 핀볼은 포함되지 않는다.
 
->참고: 해당 리뷰는 ****Microsoft Solitaire & Casual Games중 솔리테어 게임들을 리뷰한다.****
+>참고: 해당 리뷰는 Microsoft Solitaire & Casual Games중 솔리테어 게임들을 리뷰한다.
     
 
 ### 장르
@@ -26,7 +26,7 @@ Microsoft Casual Games
 
 ### 첫인상 ⭐⭐⭐⭐⭐
 
-나에게 **Microsoft Solitaire & Casual Games의 첫 만남은 전신인 Spider였다. 윈도우 XP에 스파이더 카드게임으로 존재하던 당시 프리셀은 규칙이 어려웠기에 단순히 숫자를 쌓아 올리면 되는 스파이더 카드게임은 미취학 아동이던 나에게 알맞았다. 할아버지의 무릎에 앉아 스파이더 카드게임을 클리어하고 자글자글하게 터지는 폭죽을 몇분이고 구경하는 것이 매우 좋은 기억으로 남아 있다.**
+나에게 Microsoft Solitaire & Casual Games의 첫 만남은 전신인 Spider였다. 윈도우 XP에 스파이더 카드게임으로 존재하던 당시 프리셀은 규칙이 어려웠기에 단순히 숫자를 쌓아 올리면 되는 스파이더 카드게임은 미취학 아동이던 나에게 알맞았다. 할아버지의 무릎에 앉아 스파이더 카드게임을 클리어하고 자글자글하게 터지는 폭죽을 몇분이고 구경하는 것이 매우 좋은 기억으로 남아 있다.
 
 ### 게임성 ⭐⭐⭐⭐
 
@@ -36,7 +36,7 @@ Microsoft Casual Games
 
 어… 솔직해지자. 창의성은 0이다. 다만 아무리 존재하는 게임을 이식한 것이어도 다양한 게임 중 해당 게임을 선택하는데도 노력과 생각은 필요하기에 1점을 부여한다. 
 
-### 스토리 **💩**
+### 스토리 💩
 
 지뢰찾기의 보물찾기 모드를 제외하면 스토리는 0에 수렴한다. 솔리테어를 기준으로 작성하는 리뷰이니 0점을 부여한다.
 
