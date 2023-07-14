@@ -3,6 +3,9 @@ title:  "Grand Theft Auto 5"
 categories: Game
 tags: [Game, Review, Openworld, AAA, Rockstar Games]
 toc: true
+toc_label: "목차"
+toc_icon: "bars"
+toc_sticky: true
 ---
 
 > 총점: 💎💎💎💎💎💎, 플레이 시간: 89시간 59분 (3회차 엔딩+100%), 장르: 오픈월드 TPS
