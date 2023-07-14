@@ -1,4 +1,9 @@
-# PowerWash Simulator
+---
+title: "PowerWash Simulator"
+categories: Game
+tags: [Game, Review, Simulator, Single, FuturLab]
+toc: true
+---
 
 총점: ⭐⭐⭐⭐, 플레이 시간: 13시간, 장르: 시뮬레이터
 
