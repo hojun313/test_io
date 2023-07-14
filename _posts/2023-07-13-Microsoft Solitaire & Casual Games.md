@@ -7,6 +7,8 @@ toc: true
 
 총점: ⭐⭐⭐⭐, 플레이 시간: 몰라 암튼 엄청 많이, 장르: 솔로 보드게임
 
+![](/assets/images/microsoft solitaire collection.webp)
+
 ## 개요
 
 Microsoft Solitaire & Casual Games는 이전 Microsoft Solitaire Collection, 이전의 Klondike, Spider, Freecell이 윈도우 11과 함께 변신한 게임이다.  
