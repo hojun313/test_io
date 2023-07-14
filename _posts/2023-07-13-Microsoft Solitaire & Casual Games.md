@@ -3,6 +3,9 @@ title: "Microsoft Solitaire & Casual Games"
 categories: Game
 tags: [Game, Review, BoardGame, Casual, Microsoft]
 toc: true
+toc_label: "목차"
+toc_icon: "bars"
+toc_sticky: true
 ---
 
 총점: ⭐⭐⭐⭐, 플레이 시간: 몰라 암튼 엄청 많이, 장르: 솔로 보드게임
