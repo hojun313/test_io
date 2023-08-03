@@ -1,7 +1,4 @@
-# High On Life
-
--
-
+---
 ## title: "High On Life"
 categories: Game
 tags: [Game, Review, FPS, Metroidvania, Squanch Games, AAA, XBOX, GamePass]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐⭐, 플레이 시간: 18시간(엔딩), 장르: FPS Metroidvania
 
-![]()
+![header](https://github.com/hojun313/hojun313.github.io/assets/41545780/9a6d1542-6075-4cc9-b351-aa8b94813236)
 
 ### 개요
 
