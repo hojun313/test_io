@@ -1,7 +1,7 @@
 ---
 title: "PowerWash Simulator"
 categories: Game
-tags: [Game, Review, Simulator, Single, FuturLab]
+tags: [Game, Review, Simulator, A, FuturLab]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
