@@ -1,5 +1,3 @@
-# The Outer Worlds
-
 ---
 ## title: "The Outer Worlds"
 categories: Game
