@@ -1,7 +1,6 @@
 # The Outer Worlds
 
--
-
+---
 ## title: "The Outer Worlds"
 categories: Game
 tags: [Game, Review, RPG, Openworld, Obsidian Entertainment, XBOX, GamePass]
@@ -9,12 +8,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐⭐, 플레이 시간: 5시간(초반), 장르: 오픈월드 RPG
 
-![]()
+![maxresdefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/99423b6c-a28f-4596-9ef9-50b999b945e1)
 
 ### 개요
 
