@@ -1,5 +1,5 @@
 ---
-## title: "Death's Door"
+title: "Death's Door"
 categories: Game
 tags: [Game, Review, Action, Adventure, **Metroidvania,** XBOX, GamePass, Acid Nerve, Indie]
 toc: true
