@@ -1,7 +1,4 @@
-# Death's Door
-
--
-
+---
 ## title: "Death's Door"
 categories: Game
 tags: [Game, Review, Action, Adventure, **Metroidvania,** XBOX, GamePass, Acid Nerve, Indie]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: 💎💎💎💎💎💎, 플레이 시간: 13시간, 장르: 액션 어드벤처
 
-![]()
+![img](https://github.com/hojun313/hojun313.github.io/assets/41545780/5e153929-00b2-4297-bc95-f19145f10cac)
 
 ### 개요
 
