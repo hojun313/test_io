@@ -1,7 +1,4 @@
-# Hot Wheels Unleashed™
-
--
-
+---
 ## title: "Hot Wheels Unleashed™"
 categories: Game
 tags: [Game, Review, Racing, XBOX, GamePass, Milestone, A]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐⭐, 플레이 시간: 3시간, 장르: 레이
 
-![]()
+![EGS_HOTWHEELSUNLEASHED_MilestoneSrl_S1_2560x1440-fcf8a60bb23c64a7f3d0b2ce81334087](https://github.com/hojun313/hojun313.github.io/assets/41545780/78123516-7721-49e8-bb6c-60564c42ffe7)
 
 ### 개요
 
@@ -45,6 +41,8 @@ Hot Wheels Unleashed™은 Milestone에서 개발한 레이싱 게임이다. 유
 장난감이 방에서 달린다. 뭐, 더 필요한가?
 
 ### 분위기/그래픽 💎💎💎💎💎💎
+
+![joker](https://github.com/hojun313/hojun313.github.io/assets/41545780/e34f3aeb-4225-418a-9785-3d2cc5ad7dd9)
 
 배트맨, 사막, 빙하 등 다양한 컨셉의 맵들이 준비되어 있으며 다들 만듦새가 뛰어나다. 실체가 존재하는 Hot Wheels의 자동차들을 매우 잘 구현했으며 파티클과 광원 효과가 뛰어나다. 속도감이 뛰어나고 배경을 보면 조그만 장난감 차를 운전한다는 느낌이 더 들기에 좋았다. 여담으로 메뉴에서는 지하실을 들어가 집 자체를 꾸밀 수 있다. 예상치 못한 컨텐츠여서 신기했다.
 
