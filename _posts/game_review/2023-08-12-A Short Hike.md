@@ -1,7 +1,4 @@
-# A Short Hike
-
--
-
+---
 ## title: "A Short Hike"
 categories: Game
 tags: [Game, Review, Metroidvania, Adventure, XBOX, GamePass, Indie]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐⭐, 플레이 시간: 1시간(엔딩), 장르: 반트로바니아, 어드벤처
 
-![]()
+![capsule_616x353](https://github.com/hojun313/hojun313.github.io/assets/41545780/408f5377-e9ce-4644-a9e0-4f1d64bdb3cf)
 
 ### 개요
 
@@ -50,6 +46,8 @@ A Short Hike는 이름 그대로 짧은 등산을 하는 어드벤처 게임이�
 뻔하다. 하지만 꼭 창의적인 스토리만이 좋은 스토리는 아니다. 뭐라도 하자는 생각으로 길을 나선 주인공이 겪는 작고 다양한 이야기들은 플레이어들에게 올라갈 이유를 적당히 잘 제공한다.
 
 ### 분위기/그래픽 ⭐⭐
+
+![ss_f2123fea859e299736a3e99d130238c784d53e75 1920x1080](https://github.com/hojun313/hojun313.github.io/assets/41545780/f76c90cc-2a8b-440b-93ba-973a5c0281e0)
 
 정말 웃긴 점은 내가 이 게임에 손이 가지 않았던 가장 큰 이유가 닌텐도 DS의 화질을 그대로 노트북으로 보는 기분이 들었기 때문이었다. 하지만 이 게임은 무려 완벽히 깔끔한 버전의 그래픽을 제공한다. 5가지 단계로 그래픽을 제공하는데 같은 게임을 마치 필터를 씌우듯 감성을 위해 구린 그래픽으로 제공하는 것이다. 가장 깔끔한 버전의 그래픽으로 진행하니 매우 만족스러웠으며 엔딩 후 초기 가장 울퉁불퉁한 그래픽으로도 게임을 진행해 보았지만 나에게는 맞지 않았다.
 
