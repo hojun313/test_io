@@ -1,7 +1,4 @@
-# Golf with Your Friends
-
--
-
+---
 ## title: "Golf with Your Friends"
 categories: Game
 tags: [Game, Review, Sports, XBOX, GamePass, Team17, B]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐, 플레이 시간: 3시간, 장르: 스포츠
 
-![]()
+![header](https://github.com/hojun313/hojun313.github.io/assets/41545780/eb1caed6-16cd-4384-ac13-85ba9306b4da)
 
 ### 개요
 
@@ -48,9 +44,11 @@ Team17은 웜즈 시리즈, Overcooked!, The Escapists 등의 게임을 제작�
 
 스토리 없다. 그냥 없다.
 
-### 분위기/그래픽 ⭐⭐
+### 분위기/그래픽 ⭐⭐⭐
 
-다양한 맵에 따른 다양한 분위기가 충분히 좋았지만 그래픽 자체가 떨어지는 건 어쩔 수 없다. 볼링장 화면 그래픽 정도라고 생각하면 된다.
+![stream_1920x1080x0_v2_3_0](https://github.com/hojun313/hojun313.github.io/assets/41545780/38aa7c29-d848-434e-ab8b-9a075303965e)
+
+다양한 맵에 따른 다양한 분위기가 충분히 좋았지만 그래픽 자체가 떨어지는 건 어쩔 수 없다. 볼링장 화면 그래픽 정도라고 생각하면 된다. 하지만 다양한 스킨과 꾸미기 요소가 있으며 나쁘지 않은 양과 질을 선사한다.
 
 ### 효과음/오디오 ⭐⭐⭐⭐
 
