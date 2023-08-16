@@ -1,7 +1,4 @@
-# Escape Academy
-
--
-
+---
 ## title: "Escape Academy"
 categories: Game
 tags: [Game, Review, Puzzle, Multy, XBOX, GamePass, Coin Crew Games, A]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: ⭐⭐⭐⭐⭐, 플레이 시간: 4시간(100%), 장르: 퍼즐
 
-![]()
+![capsule_616x353](https://github.com/hojun313/hojun313.github.io/assets/41545780/ef0b88d6-fc5d-4f05-b7ed-b2ac0e5bc6bd)
 
 ### 개요
 
@@ -55,6 +51,8 @@ Escape Academy는 방 탈출 게임으로 특정 공간에 갇혀 퍼즐과 추�
 별로 예상하지 못했던 스토리가 생각보다 매우 흥미진진하고 몰입감 있었다. 호그와트에게 큰 영감을 받은 듯한 구석들과 뻔하지만 예상 못했던 반전, 그 사이사이의 모든 일들이 스토리로 잘 엮여 좋았다.
 
 ### 분위기/그래픽 ⭐⭐⭐⭐
+
+![7-17-2022_8-44-23_PM-uwl0idu1-1024x576](https://github.com/hojun313/hojun313.github.io/assets/41545780/113cfbcc-5611-485e-aa9e-aa830fe47531)
 
 너무 빠져들어 계속 플레이한 이 게임에 최고점을 주지 못한 이유는 그래픽 뿐이라고 말할 수 있다. 기본적으로 모든 그래픽이 애매하게 이질적이다. 카툰풍도 아니고 현실적이지도 않고 딱 그 중간을 걷는다. 보더랜드 1, GTA 3 정도의 그래픽을 떠올리면 되는데 추가로 NPC들의 모션이 가관이다. 어디 게임엔진에 기본으로 들어있거나 유튜브에서 3D 스켈레톤 강의에 등장 할 것 같은 반복적이고 강조된 움직임들은 몰입도를 크게 하락시켰다.
 
