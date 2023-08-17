@@ -1,7 +1,7 @@
 ---
 ## title: "Tricky Towers"
 categories: Game
-tags: [Game, Review, Party, Multy, XBOX, GamePass, WeirdBeard, Indie]
+tags: [Game, Review, Party, Multy, WeirdBeard, Indie]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
