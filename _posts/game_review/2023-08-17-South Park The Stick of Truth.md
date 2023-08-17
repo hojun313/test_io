@@ -1,7 +1,4 @@
-# South Park: The Stick of Truth
-
--
-
+---
 ## title: "South Park: The Stick of Truth"
 categories: Game
 tags: [Game, Review, RPG, Openworld, Ubisoft, Ubisoft+, **Obsidian Entertainment**, A]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 총점: 💎💎💎💎💎💎, 플레이 시간: 5시간(엔딩), 장르: 반픈월드 RPG
 
-![]()
+![capsule_616x353](https://github.com/hojun313/hojun313.github.io/assets/41545780/66383dd6-6211-4177-b701-1ccb9f4300dd)
 
 ## 개요
 
@@ -75,6 +71,12 @@ Team17은 웜즈 시리즈, Overcooked!, The Escapists 등의 게임을 제작�
 스토리 자체는 거의 한 줄기로 되어 있지만 중간 중간 반전의 요소가 많이 숨겨져 있다. 원작 만화의 수많은 요소를 과하지 않게 잘 녹여냈으며 판타지, 세계의 위기 적인 분위기와 그래봤자 애들 놀이 분위기가 잘 섞여 개인적인 개그 코드와 잘 맞는다.
 
 ## 분위기/그래픽 💎💎💎💎💎💎
+
+![2437587-stickoftruth_preview_2](https://github.com/hojun313/hojun313.github.io/assets/41545780/f6497463-0231-48b9-9da0-7db90cf07e52)
+![zp-113555_South-Park-The-Stick-of-Truth_2013_06-04-13_011](https://github.com/hojun313/hojun313.github.io/assets/41545780/23362091-607e-4909-bf3c-50bf04b86e2e)
+![southpark1120131280jpg-e96986_160w](https://github.com/hojun313/hojun313.github.io/assets/41545780/417445b8-c9d4-4b5c-a6d4-36769c49e261)
+
+원작, 게임, 컷씬이 섞여있다. 셋을 비교하면 얼마나 원작 구현이 뛰어난지 감이 올 것이다.
 
 실사 그래픽과 이렇게 멀 수가 없지만 이 게임은 원작 만화와의 유사성을 위해 노력한 그래픽이기에 정말 완벽하다고 말할 수 있다. 특히 파티클과 전투 이펙트, 다양한 오브젝트와 아이템 그림 등 모든 분야에서 완벽한 그래픽을 선사한다. 0.1% 아쉬운 점은 가끔 사용되는 미리 녹화된 컷씬들이 10년이라는 시간 동안 발전된 모니터와 그래픽을 이기지 못하고 화질이 약간 떨어져 보이는 상황이 있었다.
 
