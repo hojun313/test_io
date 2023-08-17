@@ -1,7 +1,7 @@
 ---
 ## title: "South Park: The Stick of Truth"
 categories: Game
-tags: [Game, Review, RPG, Openworld, Ubisoft, Ubisoft+, **Obsidian Entertainment**, A]
+tags: [Game, Review, RPG, Openworld, Ubisoft, Ubisoft+, Obsidian Entertainment, A]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
