@@ -1,16 +1,16 @@
-# Hungry Shark World
-
--title: "Hungry Shark World"
+---
+title: "Hungry Shark World"
 categories: Game
 tags: [Game, Review, Action, Metroidvania, Ubisoft, Ubisoft+, B]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
-toc_sticky: true-
+toc_sticky: true
+---
 
 ## 총점: ⭐⭐⭐, 플레이 시간: 45분, 장르: 액션 반트로바니아
 
-![]()
+![maxresdefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/52349841-f9eb-4d75-8e99-50ce118bd73d)
 
 ## 개요
 
@@ -39,6 +39,8 @@ Hungry Shark World는 시리즈 6번째 작품으로 가장 큰 특징은 맵이
 상어당 🦈
 
 ## 분위기/그래픽 ⭐⭐⭐⭐⭐
+
+![60626](https://github.com/hojun313/hojun313.github.io/assets/41545780/a0ea110d-567c-4dbf-9644-e77bf49cdad1)
 
 그래픽이 꽤 뛰어나다. 2D 게임이지만 3D 그래픽을 잘 녹여내었다. 실사 그래픽은 아니지만 카툰 그래픽보다는 사실적인 그 사이를 달리는 그래픽이 특이하다.
 
