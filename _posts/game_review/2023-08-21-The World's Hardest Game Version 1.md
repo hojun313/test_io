@@ -1,7 +1,4 @@
-# The World's Hardest Game Version 1.0
-
--
-
+---
 ## title: "The World's Hardest Game Version 1.0"
 categories: Game
 tags: [Review, Game, Maze, Flash, Snubby Land, Indie]
@@ -9,12 +6,11 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
-
--
+---
 
 ## 총점: ⭐⭐⭐, 플레이 시간: 2시간(100%), 장르: 미로
 
-![]()
+![Start](https://github.com/hojun313/hojun313.github.io/assets/41545780/3922afdf-6a51-4bf6-8b6f-366ead12889a)
 
 ## 개요
 
@@ -51,6 +47,9 @@ Team17은 웜즈 시리즈, Overcooked!, The Escapists 등의 게임을 제작�
 無
 
 ## 분위기/그래픽/오디오 ⭐⭐
+
+![the-worlds-hardest-game](https://github.com/hojun313/hojun313.github.io/assets/41545780/593de48c-c099-4125-9dd9-f94df473a8c0)
+<img width="591" alt="Worlds Hardest Game OG Image" src="https://github.com/hojun313/hojun313.github.io/assets/41545780/49b25b69-93ff-4312-b3c3-226b6c8aac30">
 
 출시 당시인 00년대에 걸 맞는 배경 음악과 단순하기 그지없는 그래픽은 게임의 특유 분위기를 만든다. 물론, 촌스럽다.
 
