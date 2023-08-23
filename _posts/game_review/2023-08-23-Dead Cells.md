@@ -1,16 +1,16 @@
-# Dead Cells
-
--title: "Dead Cells"
+---
+title: "Dead Cells"
 categories: Game
 tags: [Game, Review, Sports, Metroidvania, RougeLike, XBOX, GamePass, Motion Twin, B]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
-toc_sticky: true-
+toc_sticky: true
+---
 
 ## 총점: 💎💎💎💎💎💎, 플레이 시간: 4시간, 장르: 로그배니아
 
-![]()
+![449b929148314e9bb4ec79e574e4fcacaca04fee8503defde177172e2bd195c5](https://github.com/hojun313/hojun313.github.io/assets/41545780/9b5155a9-64b8-4ef7-a538-431ebfdaa055)
 
 ## 개요
 
@@ -50,7 +50,12 @@ Dead Cells는 로그배니아식 2D 횡스크롤 액션 게임이며 성장요�
 
 ## 분위기/그래픽 💎💎💎💎💎💎
 
+![sddefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/bc8a4744-8546-49dd-8a32-b27dc856d282)
+
 본인은 언제나 도트 감성을 인정 하지만 개인적으로는 그저 안 좋은 화질이라고 생각하여 플레이를 할 때마다 거슬렸다. 하지만서도 특정 게임들의 도트 감성에 완전히 매료된 적이 몇 번 있었는데 그중 하나가 바로 이 게임이다. 그래픽에 들어가기에 앞서 모든 디자인 자체가 정말 아름답게 되어 있어 각 컨셉과 나타내고자 하는 것이 확연한 것이 맘에 들었다. 이에 더불어 도트로 표현하였음에도 의도한 디자인이 생략되지 않은 것을 넘어 정말 완벽히 도트로 표현되었다고 생각한다.
+
+![maxresdefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/0b7754d3-1710-43bc-8416-1a2998d8e07c)
+![1912obj___1785958823](https://github.com/hojun313/hojun313.github.io/assets/41545780/7afe1731-ad79-4633-b7e7-0e8fc191e5d4)
 
 이 게임에는 다양한 장비만큼이나 다양한 전투 이펙트가 나오는데 그 모든 것이 너무나도 완벽하게 표현되어 있다. 보스의 공격과 주인공의 기술들은 물론 수많은 장비마다 고유한 이펙트, 서로 특징이 분명한 일반 적들과 그들의 이펙트는 해당 게임의 전투에 크게 몰입할 수 있도록 하였다.
 
