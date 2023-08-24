@@ -1,16 +1,16 @@
-# Titan Souls
-
--title: "Titan Souls"
+---
+title: "Titan Souls"
 categories: Game
 tags: [Game, Review, Action, Soulslike, Acid Nerve, Indie]
 toc: true
 toc_label: "목차"
 toc_icon: "bars"
-toc_sticky: true-
+toc_sticky: true
+---
 
 ## 총점: ⭐⭐⭐⭐, 플레이 시간: 1시간, 장르: 소울라이크
 
-![]()
+![71edd827390257738c51a8de0a07cc285cbb65fe39899d523fa45e6d0b094cc2_product_card_v2_mobile_slider_639](https://github.com/hojun313/hojun313.github.io/assets/41545780/cb9ea9e0-3405-4c0a-9b28-96552012a523)
 
 ## 개요
 
@@ -51,6 +51,8 @@ Acid Nerve는 Death’s Door 등의 게임을 제작한 영국의 2인 개발팀
 ## 분위기/그래픽 ⭐⭐⭐⭐
 
 ### 스타일: 도트
+
+![TitanSouls_MoltenEyeBoss](https://github.com/hojun313/hojun313.github.io/assets/41545780/250162d1-6164-43b9-bf57-de5e2cb5c513)
 
 도트 스타일의 그래픽인데 주인공의 경우 사용된 도트가 너무 적어 약간 아쉽게 보일 수도 있으나 잘 짜여진 배경 컨셉만큼이나 잘 만들어진 보스들의 모습을 보면 그래픽으로는 매우 뛰어나다고 할 수 있다.
 
