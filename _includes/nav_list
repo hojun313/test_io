@@ -47,7 +47,7 @@
         {% if tag[1].size == i %}
           <ul style="padding-top: 0px; padding-bottom: 0px;">
             <a href="/tags/#{{ tag[0] | slugify }}">
-              <strong style="font-size: 16px;">{{ tag[0] }}</strong> <span class="taxonomy__count" style="font-size: 14px;">{{ i }}</span>
+              <span style="font-size: 16px;">{{ tag[0] }}</span> <span class="taxonomy__count" style="font-size: 14px;">{{ i }}</span>
             </a>
           </ul>
         {% endif %}
