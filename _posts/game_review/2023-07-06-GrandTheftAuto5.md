@@ -6,6 +6,7 @@ toc: true
 toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
+thumbnail: /assets/images/GTA5.jpg
 ---
 
 > 총점: 💎💎💎💎💎💎, 플레이 시간: 89시간 59분 (3회차 엔딩+100%), 장르: 오픈월드 TPS
