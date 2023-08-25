@@ -7,6 +7,8 @@ toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
 thumbnail: https://github.com/hojun313/hojun313.github.io/assets/41545780/cb9ea9e0-3405-4c0a-9b28-96552012a523
+sidebar:
+  nav: "counts:
 ---
 
 ## 총점: ⭐⭐⭐⭐, 플레이 시간: 1시간, 장르: 소울라이크
