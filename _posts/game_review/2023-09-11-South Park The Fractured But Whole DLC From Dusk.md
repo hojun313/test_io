@@ -1,6 +1,5 @@
-# South Park: The Fractured But Whole DLC: From Dusk till Casa Bonita
-
--title: "South Park: The Fractured But Whole DLC: From Dusk till Casa Bonita"
+---
+title: "South Park: The Fractured But Whole DLC: From Dusk till Casa Bonita"
 categories: Game
 tags: [Game, DLC, Review, RPG, Ubisoft, Ubisoft+, Team17, A]
 toc: true
@@ -8,11 +7,12 @@ toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
 sidebar:
-  nav: "counts"-
+  nav: "counts"
+---
 
 ## 총점: ⭐⭐⭐⭐, 플레이 시간: 원작 클리어 후 1.5시간 (엔딩), 장르: RPG
 
-![]()
+![header](https://github.com/hojun313/hojun313.github.io/assets/41545780/5109d7fb-f09d-4b0e-b41c-156dddb66b83)
 
 ## 개요
 
@@ -51,6 +51,8 @@ sidebar:
 ## 분위기/그래픽 💎💎💎💎💎💎
 
 ### 스타일: 카툰
+
+![ss_4d40d39c0242de6b83494644e389390c01fdf309 1920x1080](https://github.com/hojun313/hojun313.github.io/assets/41545780/442b89ee-8788-4003-85e2-edef0277188f)
 
 그래픽은 도저히 깔수가 없다. 새로운 기술들의 파티클, 스프라이트가 완벽했으며 새로운 장소인 카사 보니타의 생김새 또한 다양한 컨셉에 잘 맞아 들어가며 원근감을 잘 조성하였다. 새로운 클래스의 디자인도 잘 어울린다.
 
