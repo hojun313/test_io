@@ -1,6 +1,5 @@
-# Trek to Yomi
-
--title: "Trek to Yomi"
+---
+title: "Trek to Yomi"
 categories: Game
 tags: [Game, Review, Action, XBOX, GamePass, Flying Wild Hog, A]
 toc: true
@@ -8,11 +7,12 @@ toc_label: "목차"
 toc_icon: "bars"
 toc_sticky: true
 sidebar:
-  nav: "counts"-
+  nav: "counts"
+---
 
 ## 총점: , 플레이 시간: 시간, 장르:
 
-![]()
+![maxresdefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/c3d17731-b08f-4647-866e-e6b7c74c6b16)
 
 ## 개요
 
@@ -23,6 +23,9 @@ Trek to Yomi는 일본풍 반 쯤 횡 스크롤 액션 게임이다.
 선형적인 진행을 채택했지만 주변의 사물을 이용하거나 숨겨진 길의 수집품을 찾는 요소가 있다.
 
 ## 유사한 게임
+![Trek-to-Yomi-Gameplay-1](https://github.com/hojun313/hojun313.github.io/assets/41545780/a64fcb68-9ea2-4856-b7a3-935081ec55a3)
+
+![trektoyomi-blogroll-1651688497116](https://github.com/hojun313/hojun313.github.io/assets/41545780/22d3fe3f-5fb3-478d-a47b-f171ca6416b3)
 
 월드에서 이동할 때에는 Somerville이 떠오프며 전투의 경우 약간의 철권등 격투게임과 메탈 슬러그를 합친 듯 한 분위기를 풍긴다.
 
@@ -57,6 +60,8 @@ Ps. 대부분의 전투가 사실상 1ㄷ1이다. 영화처럼 여러명이 달�
 ## 분위기/그래픽 ⭐⭐⭐⭐⭐
 
 ### 스타일: 풀 3D 모델링
+
+![trek-to-yomi-collectible-artifact-locations](https://github.com/hojun313/hojun313.github.io/assets/41545780/d600175f-1f91-4b54-9bf0-802df570ea0e)
 
 찰흙 같은 질감의 3D 모델링이 기반외 된다. 배경은 사실적으로 잘 구현 됬으며 사람들 또한 얼굴을 제외하면 매우 표현력이 뛰어나다. 최적화가 약간 아쉽다는 생각이 들었으나 그만큼 그래픽도 신경을 쓴 듯 하다.
 
