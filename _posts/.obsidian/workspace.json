@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "c163d088dbd04345",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d18b416324f520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2995173aa370363b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d431645943b8d5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game_review/양식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e394dd9f2526242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-06-first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50c911ba4f329c6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "27738a88c1c100dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Champion Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9dffbd50e8ebf6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea2b763e5481224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb93d1fb2c0829e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85b8975bb1808e23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f5071f6dcbc1a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a58c36528d6cf103",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcca033e317d8a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ac4fb87a7fe666",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f9604fbb346838d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8d05912d2766ed8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e4abb24575af09a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "50c911ba4f329c6f",
+  "lastOpenFiles": [
+    "Champion Review.md",
+    "Game Thoughts.md",
+    "2023-07-06-first.md",
+    "Game Review.md",
+    "Blog.md",
+    "game_review/양식.md",
+    "game_review/2023-09-11-South Park The Fractured But Whole DLC From Dusk.md",
+    "game_review/2023-07-06-CyberPunk_2077.md",
+    "game_review/2023-07-06-2nd.md",
+    "champion_review/2023-09-01-Ashe.md"
+  ]
+}
