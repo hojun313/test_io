@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f248848572231220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "game_thoughts/Helltaker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d248f8ab3d39f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_thoughts/양식.md",
+                "file": "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:CD_PROJEKT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_thoughts/양식.md",
+                "file": "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_thoughts/양식.md",
+                "file": "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_thoughts/양식.md"
+                "file": "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md"
               }
             }
           }
@@ -170,18 +157,19 @@
   "active": "2d248f8ab3d39f62",
   "lastOpenFiles": [
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권 수령.md",
+    "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
     "game_thoughts/양식.md",
+    "game_thoughts/무제 파일 헬테이커.md",
+    "game_thoughts/Game Thoughts.md",
+    "game_thoughts/Helltaker.md",
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권.md",
     "game_thoughts/2024-01-02-엘든링과 P의 거짓.md",
     "game_thoughts/2023-09-17-브라이어 QoL 편의성 개선 사항.md",
-    "game_thoughts/Helltaker.md",
     "game_review/2023-07-06-CyberPunk_2077.md",
     "무제 파일.canvas",
     "game_review/2023-08-03-High On Life.md",
     "game_review/2023-09-11-South Park The Fractured But Whole DLC From Dusk.md",
     "blog/Blog.md",
-    "game_thoughts/무제 파일 헬테이커.md",
-    "game_thoughts/Game Thoughts.md",
     "2024-01-03.md",
     "blog/2023-08-07-6점, 1~2점 게임이 자주 등장하지 않는 이유.md",
     "game_study/퍼즐 게임이 이렇게 성공할 수 있다고! - Helltaker.md",
