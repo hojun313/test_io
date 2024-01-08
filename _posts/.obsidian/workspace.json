@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:UX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,16 +155,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2d248f8ab3d39f62",
+  "active": "85b8975bb1808e23",
   "lastOpenFiles": [
-    "Pasted image 20240108173945.jpg",
-    "Pasted image 20240108173853.jpg",
     "game_thoughts/2024-1x-xx-{양식}양식.md",
     "game_thoughts/2024-01-08-{컨텐츠} GTA의 반입 반출과 튜닝샵.md",
+    "game_thoughts/무제 파일 헬테이커.md",
+    "Pasted image 20240108173945.jpg",
+    "Pasted image 20240108173853.jpg",
     "game_thoughts/양식 1.md",
     "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권 수령.md",
-    "game_thoughts/무제 파일 헬테이커.md",
     "game_thoughts/Game Thoughts.md",
     "game_thoughts/Helltaker.md",
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권.md",
