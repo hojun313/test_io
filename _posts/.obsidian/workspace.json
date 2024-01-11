@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
+                "file": "game_thoughts/2024-1x-xx-{양식}양식.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
+                "file": "game_thoughts/2024-1x-xx-{양식}양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
+                "file": "game_thoughts/2024-1x-xx-{양식}양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md"
+                "file": "game_thoughts/2024-1x-xx-{양식}양식.md"
               }
             }
           }
@@ -157,8 +156,8 @@
   },
   "active": "2d248f8ab3d39f62",
   "lastOpenFiles": [
-    "blog/2024-01-11-{리그오브레전드}14시즌 아이템 변경점.md",
     "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
+    "blog/2024-01-11-{리그오브레전드}14시즌 아이템 변경점.md",
     "game_thoughts/2024-1x-xx-{양식}양식.md",
     "game_thoughts/무제 파일 헬테이커.md",
     "game_thoughts/2024-01-08-{컨텐츠}GTA의 반입 반출과 튜닝샵.md",
