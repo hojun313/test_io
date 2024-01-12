@@ -16,16 +16,12 @@ sidebar:
 ---
 ## 총점: ⭐⭐⭐, 플레이 시간: 1시간, 장르: 골프, 아케이드
 
-![maxresdefault](https://github.com/hojun313/hojun313.github.io/assets/41545780/c3d17731-b08f-4647-866e-e6b7c74c6b16)
+https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/cursed-to-golf-offer-zln8n.png
 
 ## 개요
 Cursed to Golf는 로그라이크식 덱빌딩 골프 아케이드 게임이다.
 리뷰 작성에 앞서, 본 게임을 리뷰하기 위해 플레이하던 중 아쉽게도 중도 탈락하여 게임을 깊게 보지 못하였으며 부족한 부분은 다른 플레이어들의 플레이 영상을 참고하였음을 밝힌다.
 ## 유사한 게임
-![Trek-to-Yomi-Gameplay-1](https://github.com/hojun313/hojun313.github.io/assets/41545780/a64fcb68-9ea2-4856-b7a3-935081ec55a3)
-
-![trektoyomi-blogroll-1651688497116](https://github.com/hojun313/hojun313.github.io/assets/41545780/22d3fe3f-5fb3-478d-a47b-f171ca6416b3)
-
 게임 시스템 자체는 로그라이크 요소와 카드의 덱빌딩, 유물 요소로 인해 슬레이 더 스파이어와 유사한 부분이 많다. 이에 게임 진행 자체는 2D골프게임이라고 하면 바로 예상 가능한 방식이다.
 ## 장르: 아케이드
 ## 개발: Chuhai Labs
@@ -52,7 +48,9 @@ Cursed to Golf는 로그라이크식 덱빌딩 골프 아케이드 게임이다.
 ## 분위기/그래픽 ⭐⭐⭐⭐⭐
 ### 스타일: 2D 카툰 도트
 
-![trek-to-yomi-collectible-artifact-locations](https://github.com/hojun313/hojun313.github.io/assets/41545780/d600175f-1f91-4b54-9bf0-802df570ea0e)
+![image](https://github.com/hojun313/hojun313.github.io/assets/41545780/4ae2dd29-1b24-41b8-ad8c-f401df935b92)
+
+![image](https://github.com/hojun313/hojun313.github.io/assets/41545780/4ac393c2-76f4-43ca-9551-a15ef7653895)
 
 다양한 도트 그래픽이 상당히 수준급이다. 스프라이트들도 예쁘고 깔끔하며 특히 모션들이 매우 깔끔하다. 눈에 띌 정도이다.
 ## 효과음/오디오 ⭐⭐⭐⭐
