@@ -2,5 +2,6 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "foldIndent": true
 }
