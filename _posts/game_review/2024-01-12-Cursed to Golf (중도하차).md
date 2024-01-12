@@ -16,7 +16,8 @@ sidebar:
 ---
 ## 총점: ⭐⭐⭐, 플레이 시간: 1시간, 장르: 골프, 아케이드
 
-https://cdn1.epicgames.com/spt-assets/a323e5521a98467dbbd24aa9bb3ee9a4/cursed-to-golf-offer-zln8n.png
+![1703692478_gcursed_story](https://github.com/hojun313/hojun313.github.io/assets/41545780/f9f23882-339a-4f0b-89ff-93e7542f745d)
+
 ## 개요
 Cursed to Golf는 로그라이크식 덱빌딩 골프 아케이드 게임이다.
 리뷰 작성에 앞서, 본 게임을 리뷰하기 위해 플레이하던 중 아쉽게도 중도 탈락하여 게임을 깊게 보지 못하였으며 부족한 부분은 다른 플레이어들의 플레이 영상을 참고하였음을 밝힌다.
