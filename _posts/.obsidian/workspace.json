@@ -25,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
+                "file": "game_review/2024-01-17-GTAO (The Chop shop).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cdda0f684d679234",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
+                "file": "game_review/2024-01-17-GTAO (The Chop shop).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
+                "file": "game_review/2024-01-17-GTAO (The Chop shop).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md"
+                "file": "game_review/2024-01-17-GTAO (The Chop shop).md"
               }
             }
           }
@@ -169,13 +161,17 @@
   },
   "active": "83ccbadaf17816bf",
   "lastOpenFiles": [
+    "game_review/2024-xx-xx-양식.md",
+    "game_review/2024-01-17-GTAO (The Chop shop).md",
+    "game_review/2024-01-12-Cursed to Golf (중도하차).md",
+    "포트폴리오/포트폴리오.md",
+    "게임 메모/새 텍스트 문서.txt",
     "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
     "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
     "game_design/2024-xx-xx-양식¦ 양식.md",
     "game_thoughts/2024-01-xx-{난이도}GTAO 페리코 습격의 변경.md",
     "blog/2024-01-xx-드라마}}드라마는 꼭 반전이 필요할까.md",
     "포트폴리오/노트.md",
-    "포트폴리오/포트폴리오.md",
     "game_thoughts/2024-1x-xx-{양식}양식.md",
     "game_design",
     "blog/2024-01-11-리그오브레전드}}14시즌 아이템 변경점.md",
@@ -185,11 +181,9 @@
     "포트폴리오",
     "game_study/퍼즐 게임이 이렇게 성공할 수 있다고! - Helltaker.md",
     "game_study/Game Studies.md",
-    "game_review/2024-01-12-Cursed to Golf (중도하차).md",
     "blog/2023-08-07-6점, 1~2점 게임이 자주 등장하지 않는 이유.md",
     "게임 메모/Cursed to Golf 리뷰.txt",
     "game_review/2023-10-03-Trek to Yomi.md",
-    "game_review/2024-xx-xx-양식.md",
     "game_review/양식.md",
     "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
     "game_thoughts/무제 파일 헬테이커.md",
@@ -199,7 +193,6 @@
     "game_thoughts/Pasted image 20240108173853.jpg",
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권 수령.md",
     "game_thoughts/Pasted image 20240108173945.jpg",
-    "game_thoughts/Game Thoughts.md",
     "무제 파일.canvas",
     "game_study"
   ]
