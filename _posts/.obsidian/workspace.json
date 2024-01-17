@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
+                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
+                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
+                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md"
+                "file": "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md"
               }
             }
           }
@@ -169,12 +169,13 @@
   },
   "active": "83ccbadaf17816bf",
   "lastOpenFiles": [
+    "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
+    "game_design/2024-01-17-규칙정의¦ 빌덱 기본 규칙 정의하기.md",
     "game_design/2024-xx-xx-양식¦ 양식.md",
     "game_thoughts/2024-01-xx-{난이도}GTAO 페리코 습격의 변경.md",
     "blog/2024-01-xx-드라마}}드라마는 꼭 반전이 필요할까.md",
     "포트폴리오/노트.md",
     "포트폴리오/포트폴리오.md",
-    "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
     "game_thoughts/2024-1x-xx-{양식}양식.md",
     "game_design",
     "blog/2024-01-11-리그오브레전드}}14시즌 아이템 변경점.md",
@@ -199,7 +200,6 @@
     "game_thoughts/2024-01-04-{UX}로스트아크 점핑권 수령.md",
     "game_thoughts/Pasted image 20240108173945.jpg",
     "game_thoughts/Game Thoughts.md",
-    "game_thoughts/양식 1.md",
     "무제 파일.canvas",
     "game_study"
   ]
