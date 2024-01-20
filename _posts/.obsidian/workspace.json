@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d248f8ab3d39f62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "game_thoughts/2024-01-11-{뉴비}발로란트의 TTK와 피격 둔화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f796c45ccf25c32",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
