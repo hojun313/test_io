@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md",
+                "file": "game_thoughts/2024-01-28-{UI}14.2 패치노트 왜 이렇게 적냐.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:UX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md",
+                "file": "game_thoughts/2024-01-28-{UI}14.2 패치노트 왜 이렇게 적냐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md",
+                "file": "game_thoughts/2024-01-28-{UI}14.2 패치노트 왜 이렇게 적냐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md"
+                "file": "game_thoughts/2024-01-28-{UI}14.2 패치노트 왜 이렇게 적냐.md"
               }
             }
           }
@@ -160,13 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f796c45ccf25c32",
+  "active": "85b8975bb1808e23",
   "lastOpenFiles": [
+    "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md",
     "game_thoughts/2024-01-xx-{난이도}GTAO 페리코 습격의 변경.md",
-    "game_thoughts/2024-01-xx-{UX}14.2 패치노트 왜 이렇게 적냐.md",
+    "game_thoughts/2024-01-28-{UI}14.2 패치노트 왜 이렇게 적냐.md",
     "game_thoughts/2024-1x-xx-{양식}양식.md",
     "blog/2024-01-22-포기겜리뷰}}The Escapists 2.md",
-    "game_thoughts/2024-01-28-{뉴비}Figment 플레이를 실패한 것에 대하여....md",
     "술 리뷰/2024-01-20-=술=미르 라이트25.md",
     "game_thoughts/2024-01-24-{패치}브라이어 또 조정 (14.2).md",
     "짧/2024-01-24-(짧)레벨당 추가 체력.md",
