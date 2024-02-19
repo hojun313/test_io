@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
+                "file": "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Elden_Ring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
+                "file": "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
+                "file": "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md"
+                "file": "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md"
               }
             }
           }
@@ -162,10 +162,11 @@
   },
   "active": "3f796c45ccf25c32",
   "lastOpenFiles": [
-    "blog/2024-01-xx-양식}}양식.md",
-    "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
-    "blog/2024-01-22-포기겜리뷰}}The Escapists 2.md",
     "game_thoughts/2024-xx-xx-{양식}양식.md",
+    "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md",
+    "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
+    "blog/2024-01-xx-양식}}양식.md",
+    "blog/2024-01-22-포기겜리뷰}}The Escapists 2.md",
     "game_review/2024-02-06-Doors Paradox.md",
     "game_review/2024-01-17-GTAO (The Chop shop).md",
     "game_review/2024-xx-xxx-양식.md",
@@ -188,7 +189,6 @@
     "game_thoughts/2024-01-14-{BM}Temu의 돈 버는 방식.md",
     "game_thoughts/무제 파일 헬테이커.md",
     "game_design/2024-01-23-빌덱¦ 로그인.md",
-    "game_design/2024-01-16-기획¦ 빌덱 첫 삽 푸기.md",
     "술 리뷰",
     "Pasted image 20240118134903.png",
     "공부",
