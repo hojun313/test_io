@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_talks/2024-02-22-(주저리)브라이어 구출하기.md",
+                "file": "game_thoughts/2024-xx-xx-{양식}양식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c807f58399a444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-26-Recycler 개인정보 처리 방침.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_talks/2024-02-22-(주저리)브라이어 구출하기.md",
+                "file": "2024-02-26-Recycler 개인정보 처리 방침.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_talks/2024-02-22-(주저리)브라이어 구출하기.md",
+                "file": "2024-02-26-Recycler 개인정보 처리 방침.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_talks/2024-02-22-(주저리)브라이어 구출하기.md"
+                "file": "2024-02-26-Recycler 개인정보 처리 방침.md"
               }
             }
           }
@@ -160,15 +173,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f796c45ccf25c32",
+  "active": "47c807f58399a444",
   "lastOpenFiles": [
-    "game_talks/2024-xx-xx-(주저리)양식.md",
     "game_talks/2024-02-22-(주저리)브라이어 구출하기.md",
+    "2024-02-26-Recycler 개인정보 처리 방침.md",
+    "game_thoughts/2023-09-17-브라이어 QoL 편의성 개선 사항.md",
+    "game_thoughts/2024-xx-xx-{양식}양식.md",
+    "game_thoughts/무제 파일 헬테이커.md",
+    "game_thoughts/Game Thoughts.md",
+    "2023-07-06-first.md",
+    "game_thoughts/Helltaker.md",
+    "술 리뷰/2024-01-20-=술=미르 라이트25.md",
+    "술 리뷰/2024-1x-xx-술}양식.md",
+    "짧/2024-02-22-(짧)트페 왜 스태틱요.md",
+    "짧/2024-02-22-(짧)브라이어 구출하기.md",
+    "game_thoughts/엘든링 성소 표사.png",
+    "game_talks/2024-xx-xx-(주저리)양식.md",
     "game_talks/2024-xx-xx-{양식}양식 1 1.md",
     "game_talks",
-    "game_thoughts/2024-xx-xx-{양식}양식.md",
-    "짧/2024-02-22-(짧)브라이어 구출하기.md",
-    "짧/2024-02-22-(짧)트페 왜 스태틱요.md",
     "짧/2024-01-24-(짧)레벨당 추가 체력.md",
     "포트폴리오/노트.md",
     "포트폴리오/포트폴리오.md",
@@ -181,14 +203,6 @@
     "game_thoughts/2024-02-21-{창작}마슐과 팰월드.md",
     "game_thoughts/2024-02-19-{피로도}Death Coming을 리뷰 실패하며.md",
     "game_thoughts/2024-02-07-{글로벌}음력 설 중국 설.md",
-    "blog/2024-01-22-포기겜리뷰}}The Escapists 2.md",
-    "game_review/2024-02-06-Doors Paradox.md",
-    "game_review/2024-01-17-GTAO (The Chop shop).md",
-    "game_review/2024-xx-xxx-양식.md",
-    "game_review/2024-xx-xx-양식.md",
-    "game_thoughts/2024-02-03-{경제}리그오브레전드 챔피언 가격 인하.md",
-    "game_thoughts/2024-02-03-{몰입도}(AI 아웃소싱)게임에서 몰입도를 높이는 방법.md",
-    "game_thoughts/2024-01-06-{오픈월드}엘든링 호수의 리에니에 관련 감탄.md",
     "짧",
     "술 리뷰",
     "Pasted image 20240118134903.png",
