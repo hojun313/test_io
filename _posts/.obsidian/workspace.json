@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
+                "file": "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
+                "file": "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
+                "file": "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024-06-26-여름 방학과 AI 노예 블로그.md"
+                "file": "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md"
               }
             }
           }
@@ -162,8 +162,15 @@
   },
   "active": "b092fb3765751cfc",
   "lastOpenFiles": [
-    "game_thoughts/2024-01-24-{패치}브라이어 또 조정 (14.2).md",
+    "game_thoughts/2024-xx-xx-{양식}양식.md",
+    "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
     "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
+    "game_thoughts/2024-03-09-{기획}원딜 챔피언 스몰더, 이대로 괜찮은가.md",
+    "game_thoughts/2024-02-22-{밸런스}크산테 진짜 왜.md",
+    "game_review/2024-xx-xxx-리뷰) 양식.md",
+    "game_review/2024-xx-xx-양식.md",
+    "game_review/양식.md",
+    "game_thoughts/2024-01-24-{패치}브라이어 또 조정 (14.2).md",
     "blog/2024-01-xx-양식}}양식.md",
     "blog/2024-01-22-포기겜리뷰}}The Escapists 2.md",
     "blog/Blog.md",
@@ -173,10 +180,6 @@
     "game_talks/2024-02-22-(주저리)브라이어 구출하기.md",
     "짧/2024-02-22-(짧)트페 왜 스태틱요.md",
     "짧/2024-01-24-(짧)레벨당 추가 체력.md",
-    "game_thoughts/2024-03-09-{기획}원딜 챔피언 스몰더, 이대로 괜찮은가.md",
-    "game_thoughts/2024-xx-xx-{양식}양식.md",
-    "game_review/2024-xx-xxx-리뷰) 양식.md",
-    "game_review/2024-xx-xx-양식.md",
     "game_thoughts/Game Thoughts.md",
     "game_thoughts/Helltaker.md",
     "game_review/2024-02-26-리뷰) Super Meat Boy Forever.md",
@@ -185,9 +188,6 @@
     "2024-02-26-Recycler 개인정보 처리 방침.md",
     "game_thoughts/2023-09-17-브라이어 QoL 편의성 개선 사항.md",
     "2023-07-06-first.md",
-    "술 리뷰/2024-01-20-=술=미르 라이트25.md",
-    "술 리뷰/2024-1x-xx-술}양식.md",
-    "짧/2024-02-22-(짧)브라이어 구출하기.md",
     "game_thoughts/엘든링 성소 표사.png",
     "game_talks",
     "짧",
