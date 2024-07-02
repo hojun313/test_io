@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_talks/2024-06-28-(주저리)경험, 연륜.md",
+                "file": "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_talks/2024-06-28-(주저리)경험, 연륜.md",
+                "file": "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_talks/2024-06-28-(주저리)경험, 연륜.md",
+                "file": "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_talks/2024-06-28-(주저리)경험, 연륜.md"
+                "file": "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md"
               }
             }
           }
@@ -162,11 +162,12 @@
   },
   "active": "b092fb3765751cfc",
   "lastOpenFiles": [
-    "game_talks/2024-xx-xx-(주저리)양식.md",
+    "game_thoughts/2024-xx-xx-{양식}양식.md",
+    "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
     "game_talks/2024-06-28-(주저리)경험, 연륜.md",
+    "game_talks/2024-xx-xx-(주저리)양식.md",
     "game_talks/2024-02-27-(주저리)님들 렉사이 잘못 쓰는듯.md",
     "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
-    "game_thoughts/2024-xx-xx-{양식}양식.md",
     "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
     "game_thoughts/2024-03-09-{기획}원딜 챔피언 스몰더, 이대로 괜찮은가.md",
     "game_thoughts/2024-02-22-{밸런스}크산테 진짜 왜.md",
@@ -187,7 +188,6 @@
     "game_review/2024-02-26-리뷰) CyberPunk 2077 (블루문 퀘스트).md",
     "game_review/2023-07-06-CyberPunk_2077.md",
     "2024-02-26-Recycler 개인정보 처리 방침.md",
-    "game_thoughts/2023-09-17-브라이어 QoL 편의성 개선 사항.md",
     "game_thoughts/엘든링 성소 표사.png",
     "game_talks",
     "짧",
