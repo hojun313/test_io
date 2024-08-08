@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56600136c3762c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game_thoughts/2024-08-08-{주저리}집중포화로의 복귀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_thoughts/2024-08-07-{첫인상}쿠키런 모험의 탑.md",
+                "file": "game_thoughts/2024-08-08-{주저리}집중포화로의 복귀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_thoughts/2024-08-07-{첫인상}쿠키런 모험의 탑.md",
+                "file": "game_thoughts/2024-08-08-{주저리}집중포화로의 복귀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_thoughts/2024-08-07-{첫인상}쿠키런 모험의 탑.md"
+                "file": "game_thoughts/2024-08-08-{주저리}집중포화로의 복귀.md"
               }
             }
           }
@@ -160,9 +173,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b092fb3765751cfc",
+  "active": "56600136c3762c49",
   "lastOpenFiles": [
     "game_thoughts/2024-xx-xx-{양식}양식.md",
+    "game_thoughts/2024-08-08-{주저리}집중포화로의 복귀.md",
     "game_thoughts/2024-08-07-{첫인상}쿠키런 모험의 탑.md",
     "game_thoughts/2024-07-03-{UX, 밸런스} 스카너 뭐가 문제인지 모르나.md",
     "game_thoughts/2024-02-22-{밸런스}크산테 진짜 왜.md",
@@ -187,7 +201,6 @@
     "game_thoughts/Game Thoughts.md",
     "game_thoughts/Helltaker.md",
     "game_review/2024-02-26-리뷰) Super Meat Boy Forever.md",
-    "game_review/2024-02-26-리뷰) CyberPunk 2077 (블루문 퀘스트).md",
     "game_thoughts/엘든링 성소 표사.png",
     "game_talks",
     "짧",
