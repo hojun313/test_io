@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b092fb3765751cfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "game_thoughts/2024-08-07-{첫인상}쿠키런 모험의 탑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56600136c3762c49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "루덴스 프로젝트/2024-xx-xx-루덴스 프로젝트} 양식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8dce35eb5b32bb70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md",
+                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md",
+                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md",
+                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md"
+                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md"
               }
             }
           }
@@ -187,13 +162,14 @@
   },
   "active": "8dce35eb5b32bb70",
   "lastOpenFiles": [
-    "game_talks/2024-xx-xx-(주저리)주저리.md",
+    "짧/2024-08-21-(짧)CYGNI 개구려 (리뷰).md",
+    "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
     "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md",
+    "game_talks/2024-xx-xx-(주저리)주저리.md",
     "game_thoughts/2024-08-28-{밸런스}각 라인의 역할화.md",
     "game_talks/2024-06-28-(주저리)경험, 연륜.md",
     "game_thoughts/2024-xx-xx-{양식}양식.md",
     "짧/2024-08-13-(짧)MSI 위상 높이기.md",
-    "짧/2024-08-21-(짧)CYGNI 개구려 (리뷰).md",
     "game_thoughts/2024-08-14-{운영}박치기 공룡 메타는 실존하는가.md",
     "game_thoughts/2024-08-13-{운영} MSI 위상 키우기.md",
     "루덴스 프로젝트/2024-xx-xx-루덴스 프로젝트} 양식.md",
@@ -215,7 +191,6 @@
     "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
     "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
     "game_talks/2024-02-27-(주저리)님들 렉사이 잘못 쓰는듯.md",
-    "blog/2024-06-26-여름 방학과 AI 노예 블로그.md",
     "game_thoughts/엘든링 성소 표사.png",
     "game_talks",
     "짧",
