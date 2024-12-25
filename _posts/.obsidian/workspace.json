@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f929298c74bdc4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "짧/2024-12-25-(짧) 리그오브레전드 월즈 뮤비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
+                "file": "짧/2024-12-25-(짧) 리그오브레전드 월즈 뮤비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
+                "file": "짧/2024-12-25-(짧) 리그오브레전드 월즈 뮤비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md"
+                "file": "짧/2024-12-25-(짧) 리그오브레전드 월즈 뮤비.md"
               }
             }
           }
@@ -160,10 +173,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8dce35eb5b32bb70",
+  "active": "f929298c74bdc4c1",
   "lastOpenFiles": [
-    "짧/2024-08-21-(짧)CYGNI 개구려 (리뷰).md",
     "짧/2024-09-02-(짧) 롤 역할군 메타 변형.md",
+    "짧/2024-12-25-(짧) 리그오브레전드 월즈 뮤비.md",
+    "짧/2024-08-21-(짧)CYGNI 개구려 (리뷰).md",
     "game_talks/2024-08-28-(주저리) 각 라인의 역할화.md",
     "game_talks/2024-xx-xx-(주저리)주저리.md",
     "game_thoughts/2024-08-28-{밸런스}각 라인의 역할화.md",
@@ -190,7 +204,6 @@
     "game_thoughts/2024-02-22-{밸런스}크산테 진짜 왜.md",
     "game_thoughts/2024-06-27-{완성도}리그오브레전드 Swarm.md",
     "game_thoughts/2024-07-02-{밸런스}원딜들의 아이템 차별화.md",
-    "game_talks/2024-02-27-(주저리)님들 렉사이 잘못 쓰는듯.md",
     "game_thoughts/엘든링 성소 표사.png",
     "game_talks",
     "짧",
